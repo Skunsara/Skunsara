@@ -13,7 +13,7 @@
 - [**Secure Web Application Project**](https://github.com/Skunsara/Secure-Web-Application-Project): A project focusing on the security of web applications.
 - [**Pfsense Projetct Firewall**](https://github.com/Skunsara/Pfsense-Project): The project is an exploration into the creation of a secure, isolated, and configurable network environment suitable for testing
 - [**Active Directory Project**](https://github.com/Skunsara/Active-Directory-Projet): This guide provides step-by-step instructions for setting up an Active Directory lab environment on your personal computer using VirtualBox. The lab consists of a domain controller and a Windows 10 client, both configured to communicate within a virtual network. This environment enables experimentation with Active Directory features, Windows networking, and various administrative tasks.
-
+- [**Glpi Project**](https://github.com/Skunsara/Glpi-Project): This guide provides detailed instructions for installing and configuring GLPI (IT and asset management software) on a Debian-based system.
 
   
 🎓 **Education & Certifications:**
